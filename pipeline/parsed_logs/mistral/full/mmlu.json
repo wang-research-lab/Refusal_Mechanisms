@@ -1,0 +1,11 @@
+{
+  "task": "inspect_evals/mmlu_0_shot",
+  "model": "openai-api/local/mistral-full",
+  "status": "started",
+  "created": "2026-05-28T02:02:57+00:00",
+  "total_samples": 13937,
+  "completed_samples": 0,
+  "errored_samples": 0,
+  "metrics": {},
+  "samples": []
+}

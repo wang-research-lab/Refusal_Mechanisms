@@ -1,0 +1,90 @@
+{
+  "Gemma2-2B": {
+    "layer13_t95": {
+      "layer": 13,
+      "threshold_pct": 95,
+      "k": 1174,
+      "k_frac": 0.5095,
+      "n_trials": 5,
+      "trial_asrs": [
+        0.001953125,
+        0.00390625,
+        0.009765625,
+        0.005859375,
+        0.00390625
+      ],
+      "rot_mean_asr": 0.0051,
+      "rot_std_asr": 0.0026,
+      "rot_rel_mean_pct": 0.57,
+      "orig_asr": 0.8984,
+      "orig_rel_pct": 101.55,
+      "delta_rel_pct": -100.97
+    }
+  },
+  "Qwen3-4B": {
+    "layer19_t95": {
+      "layer": 19,
+      "threshold_pct": 95,
+      "k": 1359,
+      "k_frac": 0.5309,
+      "n_trials": 5,
+      "trial_asrs": [
+        0.111328125,
+        0.099609375,
+        0.099609375,
+        0.1015625,
+        0.095703125
+      ],
+      "rot_mean_asr": 0.1016,
+      "rot_std_asr": 0.0052,
+      "rot_rel_mean_pct": 10.79,
+      "orig_asr": 0.9316,
+      "orig_rel_pct": 98.96,
+      "delta_rel_pct": -88.17
+    }
+  },
+  "Phi4-Mini": {
+    "layer14_t95": {
+      "layer": 14,
+      "threshold_pct": 95,
+      "k": 1669,
+      "k_frac": 0.5433,
+      "n_trials": 5,
+      "trial_asrs": [
+        0.021484375,
+        0.015625,
+        0.017578125,
+        0.017578125,
+        0.015625
+      ],
+      "rot_mean_asr": 0.0176,
+      "rot_std_asr": 0.0021,
+      "rot_rel_mean_pct": 1.84,
+      "orig_asr": 0.959,
+      "orig_rel_pct": 100.61,
+      "delta_rel_pct": -98.77
+    }
+  },
+  "Mistral-3.2-Small": {
+    "layer17_t95": {
+      "layer": 17,
+      "threshold_pct": 95,
+      "k": 2782,
+      "k_frac": 0.5434,
+      "n_trials": 5,
+      "trial_asrs": [
+        0.091796875,
+        0.09375,
+        0.09375,
+        0.095703125,
+        0.10546875
+      ],
+      "rot_mean_asr": 0.0961,
+      "rot_std_asr": 0.0048,
+      "rot_rel_mean_pct": 11.21,
+      "orig_asr": 0.8301,
+      "orig_rel_pct": 96.81,
+      "delta_rel_pct": -85.6
+    }
+  }
+}

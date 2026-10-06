@@ -1,0 +1,26 @@
+{
+  "model": "mistralai/Mistral-Small-3.2-24B-Instruct-2506",
+  "anchor_layer": 17,
+  "sparse_threshold": 0.95,
+  "sparse_k": 2782,
+  "n_batches": 64,
+  "batch_size": 8,
+  "max_seq_length": 512,
+  "results": {
+    "base": {
+      "ce_loss": 1.8009102905325312,
+      "perplexity": 6.055156908441882,
+      "n_tokens": 178844
+    },
+    "refusal": {
+      "ce_loss": 1.8053163651003108,
+      "perplexity": 6.081895243592302,
+      "n_tokens": 178844
+    },
+    "mechanism": {
+      "ce_loss": 1.80368365726555,
+      "perplexity": 6.071973387528046,
+      "n_tokens": 178844
+    }
+  }
+}

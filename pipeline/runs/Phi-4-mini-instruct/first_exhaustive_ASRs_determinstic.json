@@ -1,0 +1,107 @@
+[
+  {
+    "component": "attn_0",
+    "drop in ASR": 0.008639308855291516,
+    "new ASR": 0.9503239740820735
+  },
+  {
+    "component": "mlp_0",
+    "drop in ASR": 0.015118790496760237,
+    "new ASR": 0.9438444924406048
+  },
+  {
+    "component": "mlp_1",
+    "drop in ASR": 0.010799136069114423,
+    "new ASR": 0.9481641468682506
+  },
+  {
+    "component": "mlp_2",
+    "drop in ASR": -0.002159827213822907,
+    "new ASR": 0.9611231101511879
+  },
+  {
+    "component": "attn_3",
+    "drop in ASR": 0.002159827213822907,
+    "new ASR": 0.9568034557235421
+  },
+  {
+    "component": "mlp_3",
+    "drop in ASR": 0.002159827213822907,
+    "new ASR": 0.9568034557235421
+  },
+  {
+    "component": "mlp_4",
+    "drop in ASR": 0.004319654427645814,
+    "new ASR": 0.9546436285097192
+  },
+  {
+    "component": "mlp_5",
+    "drop in ASR": 0.0,
+    "new ASR": 0.958963282937365
+  },
+  {
+    "component": "mlp_6",
+    "drop in ASR": 0.010799136069114423,
+    "new ASR": 0.9481641468682506
+  },
+  {
+    "component": "attn_7",
+    "drop in ASR": 0.00647948164146861,
+    "new ASR": 0.9524838012958964
+  },
+  {
+    "component": "mlp_7",
+    "drop in ASR": 0.008639308855291516,
+    "new ASR": 0.9503239740820735
+  },
+  {
+    "component": "attn_8",
+    "drop in ASR": 0.002159827213822907,
+    "new ASR": 0.9568034557235421
+  },
+  {
+    "component": "mlp_8",
+    "drop in ASR": 0.01943844492440605,
+    "new ASR": 0.9395248380129589
+  },
+  {
+    "component": "attn_9",
+    "drop in ASR": 0.00647948164146861,
+    "new ASR": 0.9524838012958964
+  },
+  {
+    "component": "mlp_9",
+    "drop in ASR": 0.02591792656587466,
+    "new ASR": 0.9330453563714903
+  },
+  {
+    "component": "attn_10",
+    "drop in ASR": 0.002159827213822907,
+    "new ASR": 0.9568034557235421
+  },
+  {
+    "component": "mlp_10",
+    "drop in ASR": 0.01295896328293733,
+    "new ASR": 0.9460043196544277
+  },
+  {
+    "component": "mlp_11",
+    "drop in ASR": 0.01295896328293733,
+    "new ASR": 0.9460043196544277
+  },
+  {
+    "component": "mlp_12",
+    "drop in ASR": 0.023758099352051865,
+    "new ASR": 0.9352051835853131
+  },
+  {
+    "component": "attn_13",
+    "drop in ASR": 0.002159827213822907,
+    "new ASR": 0.9568034557235421
+  },
+  {
+    "component": "mlp_13",
+    "drop in ASR": 0.01943844492440605,
+    "new ASR": 0.9395248380129589
+  }
+]

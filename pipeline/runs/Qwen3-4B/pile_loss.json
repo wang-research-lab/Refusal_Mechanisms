@@ -1,0 +1,26 @@
+{
+  "model": "Qwen/Qwen3-4B",
+  "anchor_layer": 19,
+  "sparse_threshold": 0.95,
+  "sparse_k": 1359,
+  "n_batches": 64,
+  "batch_size": 8,
+  "max_seq_length": 512,
+  "results": {
+    "base": {
+      "ce_loss": 2.351372883447974,
+      "perplexity": 10.499975076016792,
+      "n_tokens": 178238
+    },
+    "refusal": {
+      "ce_loss": 2.353527306186111,
+      "perplexity": 10.522620846592694,
+      "n_tokens": 178238
+    },
+    "mechanism": {
+      "ce_loss": 2.3493979959380153,
+      "perplexity": 10.479259268811694,
+      "n_tokens": 178238
+    }
+  }
+}

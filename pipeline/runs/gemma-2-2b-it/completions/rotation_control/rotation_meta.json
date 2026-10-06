@@ -1,0 +1,42 @@
+{
+  "RotCtrl_layer13_t95_trial0": {
+    "layer": 13,
+    "threshold": 0.95,
+    "trial": 0,
+    "seed": 13,
+    "k": 1174,
+    "k_frac": 0.5095
+  },
+  "RotCtrl_layer13_t95_trial1": {
+    "layer": 13,
+    "threshold": 0.95,
+    "trial": 1,
+    "seed": 1013,
+    "k": 1174,
+    "k_frac": 0.5095
+  },
+  "RotCtrl_layer13_t95_trial2": {
+    "layer": 13,
+    "threshold": 0.95,
+    "trial": 2,
+    "seed": 2013,
+    "k": 1174,
+    "k_frac": 0.5095
+  },
+  "RotCtrl_layer13_t95_trial3": {
+    "layer": 13,
+    "threshold": 0.95,
+    "trial": 3,
+    "seed": 3013,
+    "k": 1174,
+    "k_frac": 0.5095
+  },
+  "RotCtrl_layer13_t95_trial4": {
+    "layer": 13,
+    "threshold": 0.95,
+    "trial": 4,
+    "seed": 4013,
+    "k": 1174,
+    "k_frac": 0.5095
+  }
+}

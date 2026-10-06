@@ -1,0 +1,26 @@
+{
+  "model": "google/gemma-2-2b-it",
+  "anchor_layer": 13,
+  "sparse_threshold": 0.95,
+  "sparse_k": 1174,
+  "n_batches": 64,
+  "batch_size": 8,
+  "max_seq_length": 512,
+  "results": {
+    "base": {
+      "ce_loss": 2.3822276662676427,
+      "perplexity": 10.828999411134161,
+      "n_tokens": 179605
+    },
+    "refusal": {
+      "ce_loss": 2.4065699729962975,
+      "perplexity": 11.095836778860374,
+      "n_tokens": 179605
+    },
+    "mechanism": {
+      "ce_loss": 2.403518832994627,
+      "perplexity": 11.062033423022214,
+      "n_tokens": 179605
+    }
+  }
+}

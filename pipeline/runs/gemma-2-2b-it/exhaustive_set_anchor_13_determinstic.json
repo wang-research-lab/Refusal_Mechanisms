@@ -1,0 +1,17 @@
+{
+  "components": [
+    "attn_4",
+    "mlp_4",
+    "attn_6",
+    "mlp_6",
+    "mlp_7",
+    "mlp_8",
+    "attn_9",
+    "mlp_9",
+    "attn_10",
+    "mlp_10",
+    "attn_11",
+    "mlp_11",
+    "mlp_12"
+  ]
+}

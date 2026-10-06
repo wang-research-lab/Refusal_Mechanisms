@@ -1,0 +1,447 @@
+[
+  {
+    "family": "gemma",
+    "role": "base",
+    "bench": "gsm8k",
+    "task": "inspect_evals/gsm8k",
+    "status": "success",
+    "total": 1319,
+    "completed": 1319,
+    "errored": 0,
+    "metrics": {
+      "match": {
+        "accuracy": 0.4632297194844579,
+        "stderr": 0.013735191956468542
+      }
+    },
+    "source": "logs/gsm8k_gemma-base/2026-05-27T22-31-38-00-00_gsm8k_3vBSMB7HKCJ8FsGT5BWwEM.eval",
+    "parsed": "pipeline/parsed_logs/gemma/base/gsm8k.json"
+  },
+  {
+    "family": "gemma",
+    "role": "full",
+    "bench": "gsm8k",
+    "task": "inspect_evals/gsm8k",
+    "status": "success",
+    "total": 1319,
+    "completed": 1319,
+    "errored": 0,
+    "metrics": {
+      "match": {
+        "accuracy": 0.4473085670962851,
+        "stderr": 0.01369579570908985
+      }
+    },
+    "source": "logs/gsm8k_gemma-full/2026-05-27T22-34-02-00-00_gsm8k_XmnD9FTCUNjWEom7LKMm3G.eval",
+    "parsed": "pipeline/parsed_logs/gemma/full/gsm8k.json"
+  },
+  {
+    "family": "gemma",
+    "role": "mech",
+    "bench": "gsm8k",
+    "task": "inspect_evals/gsm8k",
+    "status": "success",
+    "total": 1319,
+    "completed": 1319,
+    "errored": 0,
+    "metrics": {
+      "match": {
+        "accuracy": 0.4336618650492798,
+        "stderr": 0.013650728047064617
+      }
+    },
+    "source": "logs/gsm8k_gemma-mech/2026-05-27T22-50-37-00-00_gsm8k_i8vGxz8hotagMMim2dvymw.eval",
+    "parsed": "pipeline/parsed_logs/gemma/mech/gsm8k.json"
+  },
+  {
+    "family": "mistral",
+    "role": "base",
+    "bench": "gsm8k",
+    "task": "inspect_evals/gsm8k",
+    "status": "success",
+    "total": 1319,
+    "completed": 1319,
+    "errored": 0,
+    "metrics": {
+      "match": {
+        "accuracy": 0.9567854435178166,
+        "stderr": 0.005600987515237917
+      }
+    },
+    "source": "logs/gsm8k_mistral-base/2026-05-27T22-20-05-00-00_gsm8k_7tKxSZ8k9q6ziFdbKdekPC.eval",
+    "parsed": "pipeline/parsed_logs/mistral/base/gsm8k.json"
+  },
+  {
+    "family": "mistral",
+    "role": "full",
+    "bench": "gsm8k",
+    "task": "inspect_evals/gsm8k",
+    "status": "success",
+    "total": 1319,
+    "completed": 1319,
+    "errored": 0,
+    "metrics": {
+      "match": {
+        "accuracy": 0.9492039423805914,
+        "stderr": 0.006048352096878172
+      }
+    },
+    "source": "logs/gsm8k_mistral-full/2026-05-28T02-42-03-00-00_gsm8k_NwshjXU86ZHefLbNhF4tXV.eval",
+    "parsed": "pipeline/parsed_logs/mistral/full/gsm8k.json"
+  },
+  {
+    "family": "mistral",
+    "role": "mech",
+    "bench": "gsm8k",
+    "task": "inspect_evals/gsm8k",
+    "status": "success",
+    "total": 1319,
+    "completed": 1319,
+    "errored": 0,
+    "metrics": {
+      "match": {
+        "accuracy": 0.9469294920394238,
+        "stderr": 0.006174868858638445
+      }
+    },
+    "source": "logs/gsm8k_mistral-mech/2026-05-28T03-12-39-00-00_gsm8k_PcN7NkiJsykxdQBysST9Xw.eval",
+    "parsed": "pipeline/parsed_logs/mistral/mech/gsm8k.json"
+  },
+  {
+    "family": "phi",
+    "role": "base",
+    "bench": "gsm8k",
+    "task": "inspect_evals/gsm8k",
+    "status": "success",
+    "total": 1319,
+    "completed": 1319,
+    "errored": 0,
+    "metrics": {
+      "match": {
+        "accuracy": 0.866565579984837,
+        "stderr": 0.009366491609784365
+      }
+    },
+    "source": "logs/gsm8k_phi-base/2026-05-28T00-43-28-00-00_gsm8k_UWLD6LBMt8T4Dt4nYQsxEm.eval",
+    "parsed": "pipeline/parsed_logs/phi/base/gsm8k.json"
+  },
+  {
+    "family": "phi",
+    "role": "full",
+    "bench": "gsm8k",
+    "task": "inspect_evals/gsm8k",
+    "status": "success",
+    "total": 1319,
+    "completed": 1319,
+    "errored": 0,
+    "metrics": {
+      "match": {
+        "accuracy": 0.5852918877937832,
+        "stderr": 0.013570623842304624
+      }
+    },
+    "source": "logs/gsm8k_phi-full/2026-05-27T23-56-30-00-00_gsm8k_7nR9QpcgctBe8tq2tCCgEr.eval",
+    "parsed": "pipeline/parsed_logs/phi/full/gsm8k.json"
+  },
+  {
+    "family": "phi",
+    "role": "mech",
+    "bench": "gsm8k",
+    "task": "inspect_evals/gsm8k",
+    "status": "success",
+    "total": 1319,
+    "completed": 1319,
+    "errored": 0,
+    "metrics": {
+      "match": {
+        "accuracy": 0.8529188779378317,
+        "stderr": 0.00975606366035984
+      }
+    },
+    "source": "logs/gsm8k_phi-mech/2026-05-27T23-58-50-00-00_gsm8k_JyKBUvKE4jtT6mAx29hYoT.eval",
+    "parsed": "pipeline/parsed_logs/phi/mech/gsm8k.json"
+  },
+  {
+    "family": "qwen",
+    "role": "base",
+    "bench": "gsm8k",
+    "task": "inspect_evals/gsm8k",
+    "status": "success",
+    "total": 1319,
+    "completed": 1319,
+    "errored": 0,
+    "metrics": {
+      "match": {
+        "accuracy": 0.8961334344200151,
+        "stderr": 0.008403622228924088
+      }
+    },
+    "source": "logs/gsm8k_qwen-base/2026-05-27T22-22-52-00-00_gsm8k_Pa8sVVp9cgUcLXMCwbYyR3.eval",
+    "parsed": "pipeline/parsed_logs/qwen/base/gsm8k.json"
+  },
+  {
+    "family": "qwen",
+    "role": "full",
+    "bench": "gsm8k",
+    "task": "inspect_evals/gsm8k",
+    "status": "success",
+    "total": 1319,
+    "completed": 1319,
+    "errored": 0,
+    "metrics": {
+      "match": {
+        "accuracy": 0.8968915845337376,
+        "stderr": 0.008376436987507853
+      }
+    },
+    "source": "logs/gsm8k_qwen-full/2026-05-28T00-19-18-00-00_gsm8k_LGbbmEE6qdZKzKLa25qRiE.eval",
+    "parsed": "pipeline/parsed_logs/qwen/full/gsm8k.json"
+  },
+  {
+    "family": "qwen",
+    "role": "mech",
+    "bench": "gsm8k",
+    "task": "inspect_evals/gsm8k",
+    "status": "success",
+    "total": 1319,
+    "completed": 1319,
+    "errored": 0,
+    "metrics": {
+      "match": {
+        "accuracy": 0.8999241849886277,
+        "stderr": 0.008266274528685686
+      }
+    },
+    "source": "logs/gsm8k_qwen-mech/2026-05-27T22-35-42-00-00_gsm8k_aNuaGdPTBQYSLPYa4oSzFb.eval",
+    "parsed": "pipeline/parsed_logs/qwen/mech/gsm8k.json"
+  },
+  {
+    "family": "gemma",
+    "role": "base",
+    "bench": "mmlu",
+    "task": "inspect_evals/mmlu_0_shot",
+    "status": "success",
+    "total": 13937,
+    "completed": 13937,
+    "errored": 0,
+    "metrics": {
+      "choice": {
+        "accuracy": 0.5806845088613044,
+        "stderr": 0.004179954024278046
+      }
+    },
+    "source": "logs/mmlu_gemma-base/2026-05-27T20-46-21-00-00_mmlu-0-shot_ikKJADcr3ACht6grupCDtP.eval",
+    "parsed": "pipeline/parsed_logs/gemma/base/mmlu.json"
+  },
+  {
+    "family": "gemma",
+    "role": "full",
+    "bench": "mmlu",
+    "task": "inspect_evals/mmlu_0_shot",
+    "status": "success",
+    "total": 13937,
+    "completed": 13937,
+    "errored": 0,
+    "metrics": {
+      "choice": {
+        "accuracy": 0.5652579464734161,
+        "stderr": 0.004199234188339396
+      }
+    },
+    "source": "logs/mmlu_gemma-full/2026-05-27T20-56-13-00-00_mmlu-0-shot_LaFDmd7465waker29LWj4A.eval",
+    "parsed": "pipeline/parsed_logs/gemma/full/mmlu.json"
+  },
+  {
+    "family": "gemma",
+    "role": "mech",
+    "bench": "mmlu",
+    "task": "inspect_evals/mmlu_0_shot",
+    "status": "success",
+    "total": 13937,
+    "completed": 13937,
+    "errored": 0,
+    "metrics": {
+      "choice": {
+        "accuracy": 0.5746573868120829,
+        "stderr": 0.004187982665727967
+      }
+    },
+    "source": "logs/mmlu_gemma-mech/2026-05-27T22-45-35-00-00_mmlu-0-shot_DwGrm6JFKEAswmnKVs9teF.eval",
+    "parsed": "pipeline/parsed_logs/gemma/mech/mmlu.json"
+  },
+  {
+    "family": "mistral",
+    "role": "base",
+    "bench": "mmlu",
+    "task": "inspect_evals/mmlu_0_shot",
+    "status": "cancelled",
+    "total": 13937,
+    "completed": 13937,
+    "errored": 3,
+    "metrics": {
+      "choice": {
+        "accuracy": 0.8323525190182288,
+        "stderr": 0.0031646803224432856
+      }
+    },
+    "source": "logs/mmlu_mistral-base/2026-05-27T21-07-34-00-00_mmlu-0-shot_cvqpv4BNkbEaqSdkuafPtf.eval",
+    "parsed": "pipeline/parsed_logs/mistral/base/mmlu.json"
+  },
+  {
+    "family": "mistral",
+    "role": "full",
+    "bench": "mmlu",
+    "task": "inspect_evals/mmlu_0_shot",
+    "status": "started",
+    "total": 13937,
+    "completed": 0,
+    "errored": 0,
+    "metrics": {},
+    "source": "logs/mmlu_mistral-full/2026-05-28T02-02-57-00-00_mmlu-0-shot_LiHywWxLeeom4GKma9byHp.eval",
+    "parsed": "pipeline/parsed_logs/mistral/full/mmlu.json"
+  },
+  {
+    "family": "mistral",
+    "role": "full",
+    "bench": "mmlu",
+    "task": "inspect_evals/mmlu_0_shot",
+    "status": "success",
+    "total": 13937,
+    "completed": 13937,
+    "errored": 0,
+    "metrics": {
+      "choice": {
+        "accuracy": 0.8199756045059913,
+        "stderr": 0.0032545959347814375
+      }
+    },
+    "source": "logs/mmlu_mistral-full/2026-05-28T02-16-47-00-00_mmlu-0-shot_8pXUuYL5DyJCNXAQfv9tzE.eval",
+    "parsed": "pipeline/parsed_logs/mistral/full/mmlu__8pXUuYL5Dy.json"
+  },
+  {
+    "family": "mistral",
+    "role": "mech",
+    "bench": "mmlu",
+    "task": "inspect_evals/mmlu_0_shot",
+    "status": "success",
+    "total": 13937,
+    "completed": 13937,
+    "errored": 0,
+    "metrics": {
+      "choice": {
+        "accuracy": 0.8224151539068666,
+        "stderr": 0.0032372738178531374
+      }
+    },
+    "source": "logs/mmlu_mistral-mech/2026-05-28T02-47-03-00-00_mmlu-0-shot_LU4hSrQRoCYqwayo6avnjd.eval",
+    "parsed": "pipeline/parsed_logs/mistral/mech/mmlu.json"
+  },
+  {
+    "family": "phi",
+    "role": "base",
+    "bench": "mmlu",
+    "task": "inspect_evals/mmlu_0_shot",
+    "status": "success",
+    "total": 13937,
+    "completed": 13937,
+    "errored": 0,
+    "metrics": {
+      "choice": {
+        "accuracy": 0.7236134031714142,
+        "stderr": 0.0037882856738739343
+      }
+    },
+    "source": "logs/mmlu_phi-base/2026-05-28T00-37-10-00-00_mmlu-0-shot_XUvs5k43g6jArBNZNdebFk.eval",
+    "parsed": "pipeline/parsed_logs/phi/base/mmlu.json"
+  },
+  {
+    "family": "phi",
+    "role": "full",
+    "bench": "mmlu",
+    "task": "inspect_evals/mmlu_0_shot",
+    "status": "success",
+    "total": 13937,
+    "completed": 13937,
+    "errored": 0,
+    "metrics": {
+      "choice": {
+        "accuracy": 0.4992466097438473,
+        "stderr": 0.004235458614248747
+      }
+    },
+    "source": "logs/mmlu_phi-full/2026-05-27T22-44-02-00-00_mmlu-0-shot_A38eH97p5F8XRRvxciJm6X.eval",
+    "parsed": "pipeline/parsed_logs/phi/full/mmlu.json"
+  },
+  {
+    "family": "phi",
+    "role": "mech",
+    "bench": "mmlu",
+    "task": "inspect_evals/mmlu_0_shot",
+    "status": "success",
+    "total": 13937,
+    "completed": 13937,
+    "errored": 0,
+    "metrics": {
+      "choice": {
+        "accuracy": 0.7038100021525436,
+        "stderr": 0.003867620403779073
+      }
+    },
+    "source": "logs/mmlu_phi-mech/2026-05-27T22-53-43-00-00_mmlu-0-shot_Ac3PvJC5j58CcWTiFg2wSH.eval",
+    "parsed": "pipeline/parsed_logs/phi/mech/mmlu.json"
+  },
+  {
+    "family": "qwen",
+    "role": "base",
+    "bench": "mmlu",
+    "task": "inspect_evals/mmlu_0_shot",
+    "status": "cancelled",
+    "total": 13937,
+    "completed": 13937,
+    "errored": 10,
+    "metrics": {
+      "choice": {
+        "accuracy": 0.7545056365333525,
+        "stderr": 0.0036470255968278245
+      }
+    },
+    "source": "logs/mmlu_qwen-base/2026-05-27T21-31-27-00-00_mmlu-0-shot_BUMZYfHjc7RQSxueLjHj69.eval",
+    "parsed": "pipeline/parsed_logs/qwen/base/mmlu.json"
+  },
+  {
+    "family": "qwen",
+    "role": "full",
+    "bench": "mmlu",
+    "task": "inspect_evals/mmlu_0_shot",
+    "status": "success",
+    "total": 13937,
+    "completed": 13937,
+    "errored": 0,
+    "metrics": {
+      "choice": {
+        "accuracy": 0.7472196311975318,
+        "stderr": 0.003681516399358871
+      }
+    },
+    "source": "logs/mmlu_qwen-full/2026-05-28T00-02-35-00-00_mmlu-0-shot_oFRZH5JT9az9UFdUyUMSUe.eval",
+    "parsed": "pipeline/parsed_logs/qwen/full/mmlu.json"
+  },
+  {
+    "family": "qwen",
+    "role": "mech",
+    "bench": "mmlu",
+    "task": "inspect_evals/mmlu_0_shot",
+    "status": "success",
+    "total": 13937,
+    "completed": 13937,
+    "errored": 0,
+    "metrics": {
+      "choice": {
+        "accuracy": 0.7518117241874148,
+        "stderr": 0.0036591154239951898
+      }
+    },
+    "source": "logs/mmlu_qwen-mech/2026-05-27T22-25-40-00-00_mmlu-0-shot_ZHM5psZg6Fhci33jgyGrPm.eval",
+    "parsed": "pipeline/parsed_logs/qwen/mech/mmlu.json"
+  }
+]

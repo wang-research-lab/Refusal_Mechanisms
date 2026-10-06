@@ -1,0 +1,15 @@
+*.pt
+**/__pycache__/
+pipeline/RepIt
+pipeline/RepIt.tar.gz
+plots
+tables
+dataset/split_jailbreakv.py
+plotting
+venv
+
+# Local artifacts, not part of the release
+logs/
+/*.pdf
+_stress_probe.py
+pipeline/runs_threshold_sweep/

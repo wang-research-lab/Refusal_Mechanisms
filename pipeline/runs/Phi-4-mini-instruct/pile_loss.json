@@ -1,0 +1,26 @@
+{
+  "model": "microsoft/Phi-4-mini-instruct",
+  "anchor_layer": 14,
+  "sparse_threshold": 0.95,
+  "sparse_k": 1669,
+  "n_batches": 64,
+  "batch_size": 8,
+  "max_seq_length": 512,
+  "results": {
+    "base": {
+      "ce_loss": 2.2657663833287636,
+      "perplexity": 9.638508563553268,
+      "n_tokens": 175056
+    },
+    "refusal": {
+      "ce_loss": 2.5039758705785577,
+      "perplexity": 12.2310263954234,
+      "n_tokens": 175056
+    },
+    "mechanism": {
+      "ce_loss": 2.2773855223471346,
+      "perplexity": 9.75115288219496,
+      "n_tokens": 175056
+    }
+  }
+}

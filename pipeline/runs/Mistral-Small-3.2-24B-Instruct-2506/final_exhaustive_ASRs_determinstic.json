@@ -1,0 +1,52 @@
+[
+  {
+    "component": "attn_8",
+    "drop in ASR": 0.056155507559395246,
+    "new ASR": 0.8790496760259179
+  },
+  {
+    "component": "mlp_9",
+    "drop in ASR": 0.12958963282937364,
+    "new ASR": 0.8056155507559395
+  },
+  {
+    "component": "mlp_10",
+    "drop in ASR": 0.0820734341252699,
+    "new ASR": 0.8531317494600432
+  },
+  {
+    "component": "attn_11",
+    "drop in ASR": 0.0820734341252699,
+    "new ASR": 0.8531317494600432
+  },
+  {
+    "component": "mlp_11",
+    "drop in ASR": 0.12958963282937364,
+    "new ASR": 0.8056155507559395
+  },
+  {
+    "component": "mlp_12",
+    "drop in ASR": 0.14686825053995678,
+    "new ASR": 0.7883369330453563
+  },
+  {
+    "component": "mlp_13",
+    "drop in ASR": 0.14038876889848806,
+    "new ASR": 0.7948164146868251
+  },
+  {
+    "component": "mlp_14",
+    "drop in ASR": 0.1598272138228941,
+    "new ASR": 0.775377969762419
+  },
+  {
+    "component": "mlp_15",
+    "drop in ASR": 0.12095032397408201,
+    "new ASR": 0.8142548596112311
+  },
+  {
+    "component": "mlp_16",
+    "drop in ASR": 0.1555075593952483,
+    "new ASR": 0.7796976241900648
+  }
+]

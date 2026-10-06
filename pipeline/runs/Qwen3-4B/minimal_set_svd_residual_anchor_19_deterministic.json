@@ -1,0 +1,35 @@
+{
+  "mlp_6": {
+    "alignment with top50 singular vecs": 0.015681669116020203
+  },
+  "attn_12": {
+    "alignment with top50 singular vecs": 0.020585477352142334
+  },
+  "mlp_12": {
+    "alignment with top50 singular vecs": 0.021182160824537277
+  },
+  "attn_14": {
+    "alignment with top50 singular vecs": 0.016370095312595367
+  },
+  "mlp_14": {
+    "alignment with top50 singular vecs": 0.0344461090862751
+  },
+  "mlp_15": {
+    "alignment with top50 singular vecs": 0.03254266083240509
+  },
+  "attn_16": {
+    "alignment with top50 singular vecs": 0.04372028633952141
+  },
+  "mlp_16": {
+    "alignment with top50 singular vecs": 0.07980924099683762
+  },
+  "mlp_17": {
+    "alignment with top50 singular vecs": 0.06202207878232002
+  },
+  "attn_18": {
+    "alignment with top50 singular vecs": 0.0954626053571701
+  },
+  "mlp_18": {
+    "alignment with top50 singular vecs": 0.10946652293205261
+  }
+}

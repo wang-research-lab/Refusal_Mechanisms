@@ -1,0 +1,33 @@
+{
+  "anchor_layer": 17,
+  "components": [
+    "mlp_2",
+    "mlp_4",
+    "mlp_5",
+    "mlp_6",
+    "mlp_7",
+    "attn_8",
+    "mlp_8",
+    "attn_9",
+    "mlp_9",
+    "attn_10",
+    "mlp_10",
+    "attn_11",
+    "mlp_11",
+    "attn_12",
+    "mlp_12",
+    "attn_13",
+    "mlp_13",
+    "attn_14",
+    "mlp_14",
+    "mlp_15",
+    "attn_16",
+    "mlp_16"
+  ],
+  "final_projection": 0.0241546630859375,
+  "unaltered_projection": 0.5390625,
+  "full_projection": 0.00031757354736328125,
+  "improvement_achieved": 0.5149078369140625,
+  "improvement_possible": 0.5387449264526367,
+  "fraction_of_target": 0.9557544055300355
+}
